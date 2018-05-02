@@ -1,0 +1,54 @@
+[02-Jun-2017 23:25:26 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'No route matched (url:dejab)'
+Stack trace: #0 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('dejab')
+#1 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Router.php' on line 84
+[02-Jun-2017 23:25:26 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'No route matched (url:favicon.ico)'
+Stack trace: #0 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Router.php' on line 84
+[02-Jun-2017 23:25:37 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'Method posts_action not found in controllerApps\Controllers\Posts'
+Stack trace: #0 D:\_Software\Ampps\www\Core\Router.php(70): Core\Controller->__call('posts', Array)
+#1 D:\_Software\Ampps\www\Core\Router.php(70): Apps\Controllers\Posts->posts()
+#2 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('posts/posts')
+#3 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Controller.php' on line 25
+[02-Jun-2017 23:25:38 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'No route matched (url:favicon.ico)'
+Stack trace: #0 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Router.php' on line 84
+[02-Jun-2017 23:33:23 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'Method posts_action not found in controllerApps\Controllers\Posts'
+Stack trace: #0 D:\_Software\Ampps\www\Core\Router.php(70): Core\Controller->__call('posts', Array)
+#1 D:\_Software\Ampps\www\Core\Router.php(70): Apps\Controllers\Posts->posts()
+#2 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('posts/posts')
+#3 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Controller.php' on line 25
+[02-Jun-2017 23:33:24 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'No route matched (url:favicon.ico)'
+Stack trace: #0 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Router.php' on line 84
+[02-Jun-2017 23:33:29 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'No route matched (url:fab)'
+Stack trace: #0 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('fab')
+#1 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Router.php' on line 84
+[02-Jun-2017 23:35:36 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'Method inde_action not found in controllerApps\Controllers\Home'
+Stack trace: #0 D:\_Software\Ampps\www\Core\Router.php(70): Core\Controller->__call('inde', Array)
+#1 D:\_Software\Ampps\www\Core\Router.php(70): Apps\Controllers\Home->inde()
+#2 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('home/inde')
+#3 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Controller.php' on line 25
+[02-Jun-2017 23:42:09 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'Method inde_action not found in controllerApps\Controllers\Home'
+Stack trace: #0 D:\_Software\Ampps\www\Core\Router.php(70): Core\Controller->__call('inde', Array)
+#1 D:\_Software\Ampps\www\Core\Router.php(70): Apps\Controllers\Home->inde()
+#2 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('home/inde')
+#3 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Controller.php' on line 25
+[02-Jun-2017 23:42:19 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'Method inde_action not found in controllerApps\Controllers\Home'
+Stack trace: #0 D:\_Software\Ampps\www\Core\Router.php(70): Core\Controller->__call('inde', Array)
+#1 D:\_Software\Ampps\www\Core\Router.php(70): Apps\Controllers\Home->inde()
+#2 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('home/inde')
+#3 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Controller.php' on line 25
+[02-Jun-2017 23:42:22 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'No route matched (url:inde)'
+Stack trace: #0 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('inde')
+#1 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Router.php' on line 84

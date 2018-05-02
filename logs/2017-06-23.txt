@@ -1,0 +1,4 @@
+[23-Jun-2017 17:32:34 Asia/Tokyo] <p>Uncaught exception: 'Exception' with message: 'No route matched (url:favicon.ico)'
+Stack trace: #0 D:\_Software\Ampps\www\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\_Software\Ampps\www\Core\Router.php' on line 84
